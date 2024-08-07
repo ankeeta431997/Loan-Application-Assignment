@@ -1,0 +1,16 @@
+
+.card-custom {
+    max-width: 800px; 
+    margin: auto; 
+}
+
+.custom-table th,
+.custom-table td {
+    border: none; 
+    padding: 0.5rem; 
+}
+
+.view-button {
+    font-size: 2rem; 
+    padding: 0.5rem 1rem; 
+}

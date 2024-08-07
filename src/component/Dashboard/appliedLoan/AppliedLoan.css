@@ -1,0 +1,10 @@
+ .custom-card-text {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  .custom-label {
+    font-size: 24px; 
+    margin-top: 10px;
+    font-weight: bold; 
+    color: black;
+  }
